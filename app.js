@@ -1,4 +1,4 @@
-console.log('hola')
+console.log('cambio')
 window.onload = () => {
 	game.init()
 }
